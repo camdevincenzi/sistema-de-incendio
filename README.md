@@ -23,7 +23,10 @@ El programa comienza mostrando en el LCD 16x2 la temperatura ambiente
 
 Con el control remoto IR agregamos una estación del año:
 
-1-Otoño, 2-Invierno, 3-Primavera, 4-Verano
+1. Otoño 
+2. Invierno
+3. Primavera
+4. Verano
 
 Una vez seleccionada la estación se podrá detectar un incendio
 
