@@ -21,7 +21,7 @@ Link del proyecto: https://www.tinkercad.com/things/1kScscwGUMy?sharecode=KO48qN
 ### Funcionamiento
 El programa comienza mostrando en el LCD 16x2 la temperatura ambiente
 
-Con el control remoto IR agregamos una estación del año:
+Con el control remoto IR establecemos una estación del año:
 
 1. Otoño 
 2. Invierno
