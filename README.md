@@ -1,5 +1,5 @@
-# Sistema de incendios
-Sistema de incendios con Arduino R1 simulado en Tinkercad
+# Sistema de incendio
+Sistema de incendio con Arduino R1 simulado en Tinkercad
 
 [![portada.png](https://i.postimg.cc/76GRHMmk/portada.png)](https://postimg.cc/njx2TmyR)
 
