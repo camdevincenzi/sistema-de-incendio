@@ -4,6 +4,7 @@ Sistema de incendios con Arduino R1 simulado en Tinkercad
 [![portada.png](https://i.postimg.cc/76GRHMmk/portada.png)](https://postimg.cc/njx2TmyR)
 
 Su función es detectar si se está produciendo un incendio según la estación del año
+
 Link del proyecto: https://www.tinkercad.com/things/1kScscwGUMy?sharecode=KO48qNIrqH1VtkeUPGx3m32a7YJmmU9qWqaskQPCuC8
 
 ### Componentes
