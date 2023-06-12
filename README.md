@@ -30,7 +30,7 @@ Con el control remoto IR establecemos una estación del año:
 
 Una vez seleccionada la estación se podrá detectar un incendio
 
-Condiciones para que se detecte un incendio:
+### Condiciones para que se detecte un incendio:
 1. Temperatura superior a los 50° en Otoño
 2. Temperatura superior a los 40° en Invierno
 3. Temperatura superior a los 60° en Primavera
