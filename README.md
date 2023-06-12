@@ -14,6 +14,7 @@ Link del proyecto: https://www.tinkercad.com/things/1kScscwGUMy?sharecode=KO48qN
 4. Control remoto por IR: Configurado para seleccionar una estación del año
 5. Servo: Comienza a girar simulando ser un aspersor una vez que se detecta un incendio
 6. Luces led: Titilan o se encienden según la temperatura y la estación seleccionadas
+7. Resistencias
 
 [![vistaprevia.png](https://i.postimg.cc/SsCG1ZgJ/vistaprevia.png)](https://postimg.cc/ZBY3CLtS)
 
