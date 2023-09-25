@@ -1,5 +1,5 @@
 # Sistema de incendio
-Sistema de incendio con Arduino R1 simulado en Tinkercad
+Sistema de incendio con Arduino UNO R3 simulado en Tinkercad
 
 [![portada.png](https://i.postimg.cc/76GRHMmk/portada.png)](https://postimg.cc/njx2TmyR)
 
@@ -8,7 +8,7 @@ Su función es detectar si se está produciendo un incendio según la estación 
 Link del proyecto: https://www.tinkercad.com/things/1kScscwGUMy?sharecode=KO48qNIrqH1VtkeUPGx3m32a7YJmmU9qWqaskQPCuC8
 
 ### Componentes
-1. Arduino R1
+1. Arduino UNO R3
 2. Sensor de temperatura: establece la temperatura entre los -40° y 125°
 3. LCD 16x2: Muestra la temperatura actual y la estación del año si es que se elige una
 4. Control remoto por IR: Configurado para seleccionar una estación del año
